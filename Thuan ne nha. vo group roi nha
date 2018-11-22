@@ -1,0 +1,4 @@
+/*Nguyen Hung Thuan*/
+cout<<"hello every body\n";
+system("pause");
+return 0;
